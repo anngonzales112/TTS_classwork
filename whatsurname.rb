@@ -1,3 +1,5 @@
+#Stephen putting stuff here
+
 #puts "Please input your score."
 #score = gets.chomp.to_i
 #if score <=59
